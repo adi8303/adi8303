@@ -3,7 +3,7 @@
 
 ## I'm a Student, Android App Developer !!
 
-- 🔭 I am Currenbtly Working on CameraX App.
+- 🔭 I am Currently Working on CameraX App.
 - 🌱 I’m currently learning Nodejs
 - 👯 I’m looking to collaborate with other Internship Companies.
 - ⚡ Fun fact: I love to play Cricket / Volleyball
@@ -48,6 +48,7 @@
 <!-- YOUTUBE:START -->
 - [⭐ Basic Android App Development_Udacity]
 - [Node js Tutorial_Youtube ]
+
 
 
 
