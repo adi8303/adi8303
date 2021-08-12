@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Student, Developer !!
 
 - 🔭 I am Currenbtly Working on CameraX App.
 - 🌱 I’m currently learning Nodejs
@@ -45,7 +45,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+<!-- ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [⭐ BONUS: STACKr News Shorts - Tailwind Just in Time Tutorial](https://www.youtube.com/watch?v=CGVWCcwVrfU)
@@ -53,7 +53,7 @@
 - [4 Steps to Make $Millions with an API 💰, Don't Miss THIS!](https://www.youtube.com/watch?v=GpYboktUnTY)
 - [⭐ BONUS: STACKr News Shorts - Top 10 programming languages to learn in 2022](https://www.youtube.com/watch?v=-qcmzbsItnk)
 - [StackOverflow Survey 2021 Results! 📊, Java Roadmap 🚘, Build a Budget App in Python 🐍 // STACKr News](https://www.youtube.com/watch?v=7C3TdqA9vGs)
-<!-- YOUTUBE:END -->
+<!-- YOUTUBE:END --> -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
 
