@@ -5,7 +5,7 @@
 
 - 🔭 I am Currently Working on CameraX App.
 - 🌱 I’m currently learning Nodejs
-- 👯 I’m looking to collaborate with other Internship Companies.
+- 👯 I’m Curently working as an Android Developer Intern.
 - ⚡ Fun fact: I love to play Cricket / Volleyball
 
 
