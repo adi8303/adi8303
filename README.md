@@ -1,11 +1,11 @@
 ### Hola!, I'm Adarsh 👋
 
 
-## I'm a Student, Android App Developer !!
+## I'm an Student, Android App Developer !!
 
-- 🔭 I am Currently Working on CameraX App.
-- 🌱 I’m currently learning Nodejs
-- 👯 I’m Curently working as an Android Developer Intern.
+- 🔭 Currently Doing Internship as an Android Developer Intern.
+- 🌱 Learning Flutter for Future Projects.
+- 👯 Goals(2022): To contribute in more and more Open Source Projects. 
 - ⚡ Fun fact: I love to play Cricket / Volleyball
 
 
@@ -87,3 +87,4 @@
 [instagram]: https://instagram.com/adarshgupta4224
 [linkedin]: https://linkedin.com/in/adarsh-gupta-42-
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adi8303&theme=radical&show_icons=true)
